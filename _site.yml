@@ -1,9 +1,9 @@
-name: "Ishan D. Ghosh"
+name: "Adeliada Mehmetaj"
 output_dir: "."
 navbar:
   title: "Adeliada Mehmetaj"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "Research"
       href: research.html
@@ -13,9 +13,9 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
-      href: http://github.com/idg23
+      href: https://github.com/admehmetaj
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/ishan-ghosh-26005063/
+      href: https://www.linkedin.com/in/adeliada-mehmetaj-699777175/
 output:
   html_document:
     theme: paper
